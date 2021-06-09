@@ -1,7 +1,6 @@
 package day47_constructors;
 
 public class StudentObjects {
-    //No_args constructor
     public static void main(String[] args) {
         Student st1 = new Student(); //runs no-args constructor
         Student st2 = new Student(); //runs no-args constructor
